@@ -25,3 +25,5 @@
 
 Takes two numbers and returns the sum.
 teste de conflito no arquivo remoto ante do push
+
+linha adicionada
